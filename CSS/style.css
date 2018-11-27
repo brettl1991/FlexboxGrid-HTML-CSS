@@ -186,6 +186,24 @@ COMPANY */
     background: #56e79a;
     color: #fff;
 }
+
+/* CONTACT */
+
+.contact form {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.contact form input[type="text"] {
+    width: 50%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.contact form textarea{
+    width: 50%;
+    height: 100px;
+}
 /* MEDIA QUERIES  */
 @media(max-width:800px) {
     #showcase h1 {
