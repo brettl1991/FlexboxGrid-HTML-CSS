@@ -1,7 +1,27 @@
+body {
+    font-family: 'Open-sans', sans-serif;
+    font-size: 17px;
+    line-height: 1.5em;
+    margin:0;
+    padding: 0;
+}
+
+
 img {
     width: 100%;
 }
 
 .container {
     margin: auto;
+}
+
+/* COMMON CLASSES */
+.primary-text {
+    color: #56e79a;
+    
+}
+
+.primary-background {
+    background-color: #56e79a;
+
 }
