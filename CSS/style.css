@@ -85,6 +85,25 @@ img {
     padding:40px;
     opacity: 0.9;
 }
+
+#features p {
+    color: #888;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+#features .fa {
+    font-size: 60px;
+    color: #56e79a;
+}
+
+/* FEATURES */
+#features h2 {
+    font-size: 35px;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
 /* MEDIA QUERIES  */
 @media(max-width:800px) {
     #showcase h1 {
