@@ -1,0 +1,22 @@
+{
+  "name": "build-a-responsive-html-and-css-template-with-flexboxgrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettl1991/FlexboxGrid-HTML-CSS.git"
+  },
+  "author": "Agnes Brettl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettl1991/FlexboxGrid-HTML-CSS/issues"
+  },
+  "homepage": "https://github.com/brettl1991/FlexboxGrid-HTML-CSS#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
